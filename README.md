@@ -18,3 +18,5 @@ O jogo não possui menu, sistema de pause nem restart. Ao abrir o jogo a cobra j
 
 Apesar das referências o código é 100% original
 
+## Obs
+Para executar o código foi necessário colocar o arquivo `Glut32.dll` junto do SnakeGame.exe
